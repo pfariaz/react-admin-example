@@ -1,0 +1,14 @@
+/* Estilos formulario login */
+.login-card {
+    min-height: 60vh;
+}
+
+.registerMessage {
+    margin-top: 10vh;
+}
+
+/* Estilos Alert component */
+.alertMessage {
+    min-width: 200px;
+    justify-content: space-between;
+}
